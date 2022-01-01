@@ -1,0 +1,15 @@
+ /https://cdnjs.cloudflare.com/ajax/libs/raphael/2.3.0/raphael.js
+                /http://127.0.0.1:800/resources/assets/css/nsdash/style.bundle
+                /http://127.0.0.1:800/resources/assets/vendors/general/dropzone/dist/dropzone
+                /http://127.0.0.1:800/resources/assets/vendors/general/summernote/dist/summernote
+                /http://127.0.0.1:800/resources/assets/vendors/general/bootstrap-markdown/css/bootstrap-markdown.min
+                /http://127.0.0.1:800/resources/assets/vendors/general/animate.css/animate
+                /http://127.0.0.1:800/resources/assets/vendors/general/toastr/build/toastr
+                /http://127.0.0.1:800/resources/assets/vendors/general/morris.js/morris
+                /http://127.0.0.1:800/resources/assets/vendors/general/sweetalert2/dist/sweetalert2
+                /http://127.0.0.1:800/resources/assets/vendors/general/socicon/css/socicon
+                /http://127.0.0.1:800/resources/assets/vendors/custom/vendors/line-awesome/css/line-awesome
+                /http://127.0.0.1:800/resources/assets/vendors/custom/vendors/flaticon/flaticon
+                /http://127.0.0.1:800/resources/assets/vendors/custom/vendors/flaticon2/flaticon
+                /http://127.0.0.1:800/resources/assets/vendors/general/@fortawesome/fontawesome-free/css/all.min
+                /http://127.0.0.1:800/resources/assets/vendors/custom/datatables/datatables.bundle
